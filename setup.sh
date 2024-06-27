@@ -92,7 +92,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="wget https://raw.githubusercontent.com/dedevery443/instalasi/main/"
+REPO="https://raw.githubusercontent.com/dedevery443/instalasi/main/"
 
 ####
 start=$(date +%s)
